@@ -5,7 +5,7 @@ Low Profile Sculpted Keycaps
 ## Motivation
 A proper next iteration on DES that's lower, flatter profile like CS, but as sculpted as DES; Shorter press distance, but wider top surface area; deeper and huggier dish, yet smoother transition between rows, and combo capability
 
-![Cross Section](./Photo/Cross_Section.jpg)
+![Cross Section](./Photo/Cross_Section.png)
 
 ## Specs
 	MX Spaced
