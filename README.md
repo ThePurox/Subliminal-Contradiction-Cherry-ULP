@@ -2,6 +2,7 @@
 This is a fork of pseudokus Sublimina-Contradiction Keycap repository to make the Caps compatible with the Cherry ULP Switches.
 The keycaps for the Cherry ULP switches have the names `ULP_*.stl`.
 The files are currently untested!
+Big thanks to [microfortnight](https://github.com/microfortnight/) for help with the generation of the STLs.
 
 # Subliminal Contradiction
 Low Profile Sculpted Keycaps
